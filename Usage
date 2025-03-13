@@ -1,0 +1,4 @@
+## 🛠️ Usage
+Run the following command to start the 2D-to-3D conversion:
+```bash
+python src/inference.py --input image.jpg --output model.obj
